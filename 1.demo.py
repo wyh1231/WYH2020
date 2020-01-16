@@ -18,7 +18,7 @@ cur.execute(sql)  # =%s      cur.execute(sql,[name1])
 
 data = cur.fetchall()
 print(data)
-
+print(data)
 
 
 
